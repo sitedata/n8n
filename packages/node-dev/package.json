@@ -64,7 +64,7 @@
         "replace-in-file": "^4.1.0",
         "request": "^2.88.0",
         "tmp-promise": "^2.0.2",
-        "typescript": "~3.5.2"
+        "typescript": "~3.9.5"
     },
     "jest": {
         "transform": {
