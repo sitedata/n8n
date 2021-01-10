@@ -81,7 +81,7 @@
         "glob-promise": "^3.4.0",
         "google-timezones-json": "^1.0.2",
         "inquirer": "^6.5.1",
-        "localtunnel": "^1.9.1",
+        "localtunnel": "^2.0.1",
         "mongodb": "^3.2.3",
         "n8n-core": "~0.11.0",
         "n8n-editor-ui": "~0.20.0",
